@@ -1,0 +1,1784 @@
+[
+  {
+    "name": "Daniel Kronďák",
+    "position": "CEO",
+    "phone": "603 271 840",
+    "email": "daniel.krondak@ambi.cz"
+  },
+  {
+    "name": "Tomáš Karpíšek",
+    "position": "Franchising",
+    "phone": "603 518 107",
+    "email": "tomas.karpisek@ambi.cz"
+  },
+  {
+    "name": "Pavla Berglová",
+    "position": "Zástupce společníků",
+    "phone": "739 029 123",
+    "email": "pavla.berglova@ambi.cz"
+  },
+  {
+    "name": "Kateřina Kubík (Satranová)",
+    "position": "Finanční manažer",
+    "phone": "606 561 838",
+    "email": "katerina.kubik@ambi.cz"
+  },
+  {
+    "name": "Markéta Mondeková",
+    "position": "Finanční specialista",
+    "phone": "737 450 058",
+    "email": "marketa.konecna@ambi.cz"
+  },
+  {
+    "name": "Lukáš Pokorný",
+    "position": "Finanční manažer",
+    "phone": "601 361 975",
+    "email": "lukas.pokorny@ambi.cz"
+  },
+  {
+    "name": "Kateřina Kukučková",
+    "position": "CEO",
+    "phone": "724 604 242",
+    "email": "katerina.kukuckova@ambi.cz"
+  },
+  {
+    "name": "Pavla Berglová",
+    "position": "Jednatelství",
+    "phone": "739 029 123",
+    "email": "pavla.berglova@ambi.cz"
+  },
+  {
+    "name": "Tomáš Karpíšek",
+    "position": "Senior partner, strategie skupiny, konzultace",
+    "phone": "603 518 107",
+    "email": "tomas.karpisek@ambi.cz"
+  },
+  {
+    "name": "Lukáš Kesner",
+    "position": "Business Development",
+    "phone": "724 374 475",
+    "email": "lukas.kesner@ambi.cz"
+  },
+  {
+    "name": "Michaela Moravčíková",
+    "position": "Finanční manager junior - Ambi CZ, Klub, UM",
+    "phone": "601 057 078",
+    "email": "finance.ambi@ambi.cz"
+  },
+  {
+    "name": "Lukáš Pokorný",
+    "position": "Finanční poradenství",
+    "phone": "601 361 975",
+    "email": "lukas.pokorny@ambi.cz"
+  },
+  {
+    "name": "Andrea Nechvátalová",
+    "position": "Vedení kanceláře a času",
+    "phone": "777 098 222",
+    "email": "andrea.nechvatalova@ambi.cz"
+  },
+  {
+    "name": "Anežka Janurová",
+    "position": "Asistentka kanceláře",
+    "phone": "725 959 909",
+    "email": "recepce@ambi.cz"
+  },
+  {
+    "name": "Míra Bouchal",
+    "position": "Mentoring nových provozů",
+    "phone": "724 611 056",
+    "email": "miroslav.bouchal@ambi.cz"
+  },
+  {
+    "name": "Pavel Kunc",
+    "position": "Projekční služby",
+    "phone": "606 624 039",
+    "email": "pavel.kunc@ambi.cz"
+  },
+  {
+    "name": "Svatava Dvořáčková",
+    "position": "brand manager Ambiente",
+    "phone": "737 649 822",
+    "email": "svatava.dvorackova@ambi.cz"
+  },
+  {
+    "name": "Kristýna Utíkalová",
+    "position": "Tamigo a personální systémy",
+    "phone": "777 193 071",
+    "email": "kristyna.utikalova@ambi.cz"
+  },
+  {
+    "name": "Nikola Vrátný Nevšímalová",
+    "position": "HR Marketing / Zapoj se",
+    "phone": "608 053 706",
+    "email": "nikola.vratny@ambi.cz"
+  },
+  {
+    "name": "Lucie Svobodová",
+    "position": "Náčelnice věrnostního programu",
+    "phone": "732 221 105",
+    "email": "lucie.svobodova@ambi.cz"
+  },
+  {
+    "name": "Lucie Svobodová + tým",
+    "position": "reklamace a odpovědi hostům",
+    "phone": "",
+    "email": "lucie.svobodova@ambi.cz"
+  },
+  {
+    "name": "Filip Trčka",
+    "position": "ombudsman hostů",
+    "phone": "603 801 226",
+    "email": "filip.trcka@ambi.cz"
+  },
+  {
+    "name": "Adéla Truksa ( A+manual)",
+    "position": "Analytika",
+    "phone": "602 600 494",
+    "email": "adela.truksa@amanual.cz"
+  },
+  {
+    "name": "Eva Králová",
+    "position": "Náčelnice interního vzdělávání",
+    "phone": "734 280 155",
+    "email": "eva.kralova@ambi.cz"
+  },
+  {
+    "name": "Karolína Kameniková",
+    "position": "Koordinátorka a produkční interního vzdělávání",
+    "phone": "606 835 139",
+    "email": "karolina.kamenikova@ambi.cz"
+  },
+  {
+    "name": "Žaneta Horáková",
+    "position": "Ambi škola",
+    "phone": "775 665 747",
+    "email": "zaneta.horakova@ambi.cz"
+  },
+  {
+    "name": "Filip Trčka",
+    "position": "Lektor",
+    "phone": "603 801 226",
+    "email": "filip.trcka@ambi.cz"
+  },
+  {
+    "name": "Jana Ravi",
+    "position": "Náčelnice inovací",
+    "phone": "602 886 969",
+    "email": "jana.ravi@ambi.cz"
+  },
+  {
+    "name": "Hai Anh Vu",
+    "position": "Provozní systémy a e-shopy",
+    "phone": "777 087 673",
+    "email": "haianh.vu@ambi.cz"
+  },
+  {
+    "name": "Veronika Křoustková",
+    "position": "Rozvoj webů, aplikací",
+    "phone": "732 869 536",
+    "email": "veronika.kroustkova@ambi.cz"
+  },
+  {
+    "name": "Andrea Moudrá",
+    "position": "Administrace webů",
+    "phone": "724 625 711",
+    "email": "andrea.moudra@ambi.cz"
+  },
+  {
+    "name": "Vojtěch Kočí",
+    "position": "Reporting specialista",
+    "phone": "603 947 008",
+    "email": "vojtech.koci@ambi.cz"
+  },
+  {
+    "name": "Petr Kureš",
+    "position": "Septim specialista",
+    "phone": "737 939 376",
+    "email": "petr.kures@ambi.cz"
+  },
+  {
+    "name": "Jan Nízký",
+    "position": "vedení, jednatel",
+    "phone": "725 767 769",
+    "email": "jan.nizky@amanual.cz"
+  },
+  {
+    "name": "Vladimíra Šmerdová",
+    "position": "vedení provoz + finance",
+    "phone": "723 465 531",
+    "email": "vladimira.smerdova@amanual.cz"
+  },
+  {
+    "name": "Kateřina Ondrůšková",
+    "position": "finanční procesy",
+    "phone": "722 159 120",
+    "email": "katerina.ondruskova@amanual.cz"
+  },
+  {
+    "name": "Lucie Kárná",
+    "position": "HR consulting",
+    "phone": "606 612 396",
+    "email": "lucie.karna@amanual.cz"
+  },
+  {
+    "name": "Albert Krejčí",
+    "position": "stáž v A+ (Honza Nízký - únor - květen 25)",
+    "phone": "734134845",
+    "email": "albert.krejci@email.cz"
+  },
+  {
+    "name": "Alžběta Bryndová",
+    "position": "team leader account ( Ambi.cz, Aretail, Akonzerva, Dva  Kohouti, Pult )",
+    "phone": "602 643 433",
+    "email": "alzbeta.bryndova@amanual.cz"
+  },
+  {
+    "name": "Jindřich Šálek",
+    "position": "account ( Lokál.cz, Institut PIVO, Naše maso, Eska, Štangl, Myšák )",
+    "phone": "739 429 348",
+    "email": "jindrich.salek@amanual.cz"
+  },
+  {
+    "name": "Martin Kunc",
+    "position": "online MKT & account ( Bufet, Pizza Nuova, Kuchyň )",
+    "phone": "739 802 174",
+    "email": "martin.kunc@amanual.cz"
+  },
+  {
+    "name": "Jindra Zahradníková",
+    "position": "account UM, štamgast",
+    "phone": "731 760 091",
+    "email": "jindra.zahradnikova@amanual.cz"
+  },
+  {
+    "name": "Ivana Kubák (Martinková)",
+    "position": "account ( Brasileiro, Klub Ambiente, Pastacaffé, Bokovka, Pasta Fresca )",
+    "phone": "704 333 041",
+    "email": "ivana.kubak@amanual.cz"
+  },
+  {
+    "name": "Viola Vondráková",
+    "position": "account ( Lokály, Čestr, Kantýna, Maximum o pivu, Online kampaně )",
+    "phone": "725 172 473",
+    "email": "viola.vondrakova@amanual.cz"
+  },
+  {
+    "name": "Adéla Romanczinová",
+    "position": "account",
+    "phone": "724 001 501",
+    "email": "adela.romanczinova@amanual.cz"
+  },
+  {
+    "name": "Mikuláš Pavlík",
+    "position": "team leader kreativa & account pro nové projekty + Amaso",
+    "phone": "605 183 611",
+    "email": "mikulas.pavlik@amanual.cz"
+  },
+  {
+    "name": "Jan Červenka",
+    "position": "brand kreativa",
+    "phone": "728 971 474",
+    "email": "jan.cervenka@amanual.cz"
+  },
+  {
+    "name": "Jáchym Jakeš",
+    "position": "brand kreativa",
+    "phone": "776 799 772",
+    "email": "jachym.jakes@amanual.cz"
+  },
+  {
+    "name": "Eliška Nováková",
+    "position": "brand kreativa",
+    "phone": "720 204 008",
+    "email": ", eliska.novakova@amanual.cz"
+  },
+  {
+    "name": "Šimon Marek",
+    "position": "grafik",
+    "phone": "777 116 787",
+    "email": "simon.marek@amanual.cz"
+  },
+  {
+    "name": "Nikola Světlíková",
+    "position": "copywriter",
+    "phone": "736 144 044",
+    "email": "nikola.svetlikova@amanual.cz"
+  },
+  {
+    "name": "Bohumila Machovcová",
+    "position": "copywriter",
+    "phone": "775 609 088",
+    "email": "bohu.machovcova@gmail.com"
+  },
+  {
+    "name": "Adéla Preislerová",
+    "position": "grafik",
+    "phone": "737503484",
+    "email": ",  adela.preislerova@amanual.cz"
+  },
+  {
+    "name": "Adéla Pivoňková",
+    "position": "grafik",
+    "phone": "732450274",
+    "email": "adela.pivonkova@amanual.cz"
+  },
+  {
+    "name": "Šárka Hamanová",
+    "position": "team leader PR a obsah",
+    "phone": "773 038 038",
+    "email": "sarka.hamanova@amanual.cz"
+  },
+  {
+    "name": "Anna Kabát Basiková",
+    "position": "šéfredaktorka",
+    "phone": "723 827 776",
+    "email": "anna.basikova@amanual.cz"
+  },
+  {
+    "name": "Blanka Datinská",
+    "position": "redaktorka",
+    "phone": "721 446 519",
+    "email": "blanka.datinska@ambi.cz"
+  },
+  {
+    "name": "Yasmine Borůvková",
+    "position": "redaktorka",
+    "phone": "735 533 757",
+    "email": "yasmine.boruvkova@amanual.cz"
+  },
+  {
+    "name": "Barbara Kytková",
+    "position": "redaktorka",
+    "phone": "727 843 957",
+    "email": "barbara.kytkova@amanual.cz"
+  },
+  {
+    "name": "Klára Kvitová",
+    "position": "interní komunikace",
+    "phone": "601 291 330",
+    "email": "klara.kvitova@amanual.cz"
+  },
+  {
+    "name": "Anna Kolářová",
+    "position": "PR a komunikace UM",
+    "phone": "724 202 186",
+    "email": "anna.kolarova@amanual.cz"
+  },
+  {
+    "name": "Soňa Hanušová",
+    "position": "PR Amaso, Lokál a pivní koncepty",
+    "phone": "732 636 755",
+    "email": "sona.hanusova@amanual.cz"
+  },
+  {
+    "name": "Tereza Gastová",
+    "position": "PR Ambiente",
+    "phone": "774 213 045",
+    "email": "tereza.gastova@amanual.cz"
+  },
+  {
+    "name": "Simona Racková",
+    "position": "editorka",
+    "phone": "724 267 518",
+    "email": "simona.rackova@email.cz"
+  },
+  {
+    "name": "Karolína Hejlová",
+    "position": "interní komunikace",
+    "phone": "736 634 714",
+    "email": "karolina.hejlova@amanual.cz"
+  },
+  {
+    "name": "Štěpánka Borisovová",
+    "position": "Social media team leader",
+    "phone": "732 154 032",
+    "email": "stepanka.borisovova@amanual.cz"
+  },
+  {
+    "name": "Denisa Lainková",
+    "position": "social media",
+    "phone": "725 029 979",
+    "email": "denisa.lainkova@amanual.cz"
+  },
+  {
+    "name": "Kateřina Janíková",
+    "position": "social media",
+    "phone": "+420 734 350 296",
+    "email": "katerina.janikova@amanual.cz"
+  },
+  {
+    "name": "Sára Bráchová",
+    "position": "správa databáze fotek",
+    "phone": "792 339 588",
+    "email": "sara.brachova@amanual.cz"
+  },
+  {
+    "name": "Petr Novák",
+    "position": "grafické zpracování jídelních lístků",
+    "phone": "607 692 815",
+    "email": "petr.novak@ambi.cz"
+  },
+  {
+    "name": "Adéla Truksa (Kotrbatá)",
+    "position": "mailingy, správa databází hostů",
+    "phone": "602 600 494",
+    "email": "adela.truksa@amanual.cz"
+  },
+  {
+    "name": "Martina Hromasová",
+    "position": "Generální manažerka, dárkové poukazy",
+    "phone": "736 765 520",
+    "email": "martina.hromasova@ambi.cz"
+  },
+  {
+    "name": "Kateřina Phillips",
+    "position": "Provoz, B2B",
+    "phone": "608 951 981",
+    "email": "katerina.phillips@ambi.cz"
+  },
+  {
+    "name": "Bára Fidrmucová",
+    "position": "Asistentka provozu",
+    "phone": "734 334 287",
+    "email": "darek@ambi.cz"
+  },
+  {
+    "name": "Tereza Pelcová",
+    "position": "Asistentka provozu",
+    "phone": "774 511 714",
+    "email": "darek@ambi.cz"
+  },
+  {
+    "name": "František Skopec",
+    "position": "Generální manažer UMu",
+    "phone": "777 288 083",
+    "email": ""
+  },
+  {
+    "name": "Alžběta Hornychová",
+    "position": "Provozní UMu",
+    "phone": "601 371 358",
+    "email": "alzbeta.hornychova@ambi.cz"
+  },
+  {
+    "name": "Jozef Majirský",
+    "position": "Produkční",
+    "phone": "734 636 311",
+    "email": "jozef.majirsky@ambi.cz"
+  },
+  {
+    "name": "Kryštof Krajník",
+    "position": "Produkční",
+    "phone": "721 119 219",
+    "email": "krystof.krajnik@ambi.cz"
+  },
+  {
+    "name": "Eva Králová",
+    "position": "Interní vzdělávání a vzdělávání pro odbornou veřejnost",
+    "phone": "734 280 155",
+    "email": ""
+  },
+  {
+    "name": "Lucie Janečková",
+    "position": "Mistr výčepní, škola čepování - Institut PIVO",
+    "phone": "608 371 171",
+    "email": ""
+  },
+  {
+    "name": "Anna Kolářová",
+    "position": "PR/social",
+    "phone": "724 202 186",
+    "email": "anna.kolarova@ambi.cz"
+  },
+  {
+    "name": "Jindra Zahradníková",
+    "position": "Account UMu",
+    "phone": "731 760 091",
+    "email": "jindra.zahradnikova@ambi.cz"
+  },
+  {
+    "name": "František Skopec",
+    "position": "Kreativní šéfkuchař",
+    "phone": "777 288 083",
+    "email": ""
+  },
+  {
+    "name": "Jiří Horák",
+    "position": "Kreativní šéfkuchař",
+    "phone": "723 323 003",
+    "email": ""
+  },
+  {
+    "name": "Tomáš Valkovič",
+    "position": "Kreativní šéfkuchař",
+    "phone": "777 308 747",
+    "email": ""
+  },
+  {
+    "name": "Jana Jelič",
+    "position": "Kreativní šéfkuchařka",
+    "phone": "777 013 168",
+    "email": "jana.jelic@ambi.cz"
+  },
+  {
+    "name": "Daniel Juráš",
+    "position": "Kreativní šéfkuchař + cukrář",
+    "phone": "776 393 361",
+    "email": "daniel.juras@ambi.cz"
+  },
+  {
+    "name": "Blanka Datinská",
+    "position": "Spisovatelka, redaktorka, foodscout",
+    "phone": "721 446 519",
+    "email": "blanka.datinska@ambi.cz"
+  },
+  {
+    "name": "Pavel Kunc",
+    "position": "Technologie výroby",
+    "phone": "606 624 039",
+    "email": "pavel.kunc@ambi.cz"
+  },
+  {
+    "name": "Ondřej Štökl",
+    "position": "Šéfbarista, nápoje, vzdělávání",
+    "phone": "777 564 483",
+    "email": "ondrej.stokl@ambi.cz"
+  },
+  {
+    "name": "Jaroslav Novotný",
+    "position": "Šéfbarista",
+    "phone": "734 113 172",
+    "email": "jaroslav.novotny@ambi.cz"
+  },
+  {
+    "name": "Vendula Jindrová",
+    "position": "administrátorka/ office manažerka",
+    "phone": "773 131 776",
+    "email": "vendula.jindrova@ambi.cz"
+  },
+  {
+    "name": "Jakub Slavík",
+    "position": "provozní manažer maloobchodních jednotek",
+    "phone": "608 177 246",
+    "email": "jakub.slavik@ambi.cz"
+  },
+  {
+    "name": "Matouš Kotrbatý",
+    "position": "obalový specialista/legislativa",
+    "phone": "602 600 160",
+    "email": "matous.kotrbaty@ambi.cz"
+  },
+  {
+    "name": "Jaromír Štohansl",
+    "position": "A-shop, obalové hospodářství",
+    "phone": "603 786 098",
+    "email": "jaromir.stohansl@ambi.cz"
+  },
+  {
+    "name": "Karel Endršt",
+    "position": "IT sklady",
+    "phone": "737 289 454",
+    "email": "karel.endrst@ambi.cz"
+  },
+  {
+    "name": "Marek Mrňous",
+    "position": "počítače/informační technologie",
+    "phone": "724 965 569",
+    "email": "marek.mrnous@ambi.cz"
+  },
+  {
+    "name": "David Tong",
+    "position": "počítače",
+    "phone": "774 699 099",
+    "email": "david.tong@ambi.cz"
+  },
+  {
+    "name": "Vlasta Lacina Jiroš",
+    "position": "generální manažer",
+    "phone": "608 730 068",
+    "email": "vlasta.lacina.jiros@amaso.cz"
+  },
+  {
+    "name": "Petra Valtová",
+    "position": "obchod",
+    "phone": "734 186 454",
+    "email": "obchod@amaso.cz"
+  },
+  {
+    "name": "Roman Frencl",
+    "position": "šéfkuchař",
+    "phone": "608 168 908",
+    "email": "roman.frencl@ambi.cz"
+  },
+  {
+    "name": "Vladimíra Edrová",
+    "position": "účetní",
+    "phone": "734 820 923",
+    "email": "vladimira.edrova@amaso.cz"
+  },
+  {
+    "name": "Mikuláš Pavlík",
+    "position": "account manažer",
+    "phone": "605 183 611",
+    "email": "mikulas.pavlik@ambi.cz"
+  },
+  {
+    "name": "Lukáš Dráb",
+    "position": "generální manažer",
+    "phone": "608 750 093",
+    "email": ""
+  },
+  {
+    "name": "Vladimíra Edrová",
+    "position": "účetní",
+    "phone": "734 820 923",
+    "email": ""
+  },
+  {
+    "name": "Radek Chaloupka",
+    "position": "generální manažer",
+    "phone": "739 318 762",
+    "email": "radek.chaloupka@ambi.cz"
+  },
+  {
+    "name": "Adam Zlatohlávek",
+    "position": "mistr řezník, manažer",
+    "phone": "737 131 307",
+    "email": "adam.zlatohlavek@ambi.cz"
+  },
+  {
+    "name": "Martin Zavoďan",
+    "position": "šéfkuchař",
+    "phone": "605 801 122",
+    "email": "martin.zavodan@ambi.cz"
+  },
+  {
+    "name": "Lenka Cempírková",
+    "position": "účetní",
+    "phone": "734 741 927",
+    "email": "lenka.cempirkova@ambi.cz"
+  },
+  {
+    "name": "Jindřich Šálek",
+    "position": "account manager",
+    "phone": "739 429 348",
+    "email": "jindrich.salek@ambi.cz"
+  },
+  {
+    "name": "Roman Novotný",
+    "position": "generální manažer",
+    "phone": "732 622 684",
+    "email": "roman.novotny@ambi.cz"
+  },
+  {
+    "name": "Michaela Fousková",
+    "position": "manažerka",
+    "phone": "721 485 481",
+    "email": "michaela.fouskova@ambi.cz"
+  },
+  {
+    "name": "Johana Vychytová",
+    "position": "účetní na MD",
+    "phone": "773 023 934",
+    "email": "johana.vychytova@ambi.cz"
+  },
+  {
+    "name": "Tomáš Brosche",
+    "position": "dočasně řeší faktury",
+    "phone": "777 091 509",
+    "email": "tomas.brosche@ambi.cz"
+  },
+  {
+    "name": "Ivana Kubák",
+    "position": "account manažer",
+    "phone": "704 333 041",
+    "email": "ivana.martinkova@ambi.cz"
+  },
+  {
+    "name": "Tomáš Brosche",
+    "position": "jednatel, generální manažer",
+    "phone": "777 091 509",
+    "email": "tomas.brosche@ambi.cz"
+  },
+  {
+    "name": "Zdeněk Oudes",
+    "position": "generální manažer",
+    "phone": "722 561 611",
+    "email": "zdenek.oudes@ambi.cz"
+  },
+  {
+    "name": "Oldřich Sahajdák",
+    "position": "šéfkuchař",
+    "phone": "603 821 942",
+    "email": "olda.sahajdak@ambi.cz"
+  },
+  {
+    "name": "Johana Vychytová",
+    "position": "účetní na MD",
+    "phone": "773 023 934",
+    "email": "johana.vychytova@ambi.cz"
+  },
+  {
+    "name": "Tomáš Brosche",
+    "position": "dočasně řeší faktury",
+    "phone": "777 091 509",
+    "email": "tomas.brosche@ambi.cz"
+  },
+  {
+    "name": "Jindra Zahradníková",
+    "position": "account manažer",
+    "phone": "731 760 091",
+    "email": "jindra.zahradnikova@amanual.cz"
+  },
+  {
+    "name": "Karel Pospíchal",
+    "position": "jednatel",
+    "phone": "603 542 404",
+    "email": "karel.pospichal@ambi.cz"
+  },
+  {
+    "name": "Dana Reháková",
+    "position": "manažerka",
+    "phone": "608 039 806",
+    "email": "dana.rehakova@ambi.cz"
+  },
+  {
+    "name": "Jiří Bergman",
+    "position": "šéfkuchař",
+    "phone": "774 645 822",
+    "email": "jiri.bergman@ambi.cz"
+  },
+  {
+    "name": "Martina Hromasová",
+    "position": "účetní",
+    "phone": "736 765 520",
+    "email": "vezenska@ambi.cz"
+  },
+  {
+    "name": "Ivana Kubák",
+    "position": "account manažer",
+    "phone": "704 333 041",
+    "email": "ivana.martinkova@ambi.cz"
+  },
+  {
+    "name": "Michal Chovanec",
+    "position": "generální manažer",
+    "phone": "603 542 273",
+    "email": "michal.chovanec@ambi.cz"
+  },
+  {
+    "name": "Přemek Rozkopal",
+    "position": "manažer",
+    "phone": "734 763 652",
+    "email": "premek.rozkopal@ambi.cz"
+  },
+  {
+    "name": "Leoš Lopatka",
+    "position": "manažer",
+    "phone": "775 073 052",
+    "email": "leos.lopatka@ambi.cz"
+  },
+  {
+    "name": "Tomáš Podolský",
+    "position": "personální manažer",
+    "phone": "777 864 958",
+    "email": "tomas.podolsky@ambi.cz"
+  },
+  {
+    "name": "Karel Brigant",
+    "position": "šéfkuchař",
+    "phone": "603 485 994",
+    "email": "karel.brigant@ambi.cz"
+  },
+  {
+    "name": "Pavlína Kulhánková",
+    "position": "účetní",
+    "phone": "603 297 061",
+    "email": "pavlina.kulhankova@ambi.cz"
+  },
+  {
+    "name": "Ivana Kubák",
+    "position": "account manažer",
+    "phone": "704 333 041",
+    "email": "ivana.martinkova@ambi.cz"
+  },
+  {
+    "name": "Radek Macura",
+    "position": "generální manažer",
+    "phone": "603 212 119",
+    "email": "radek.macura@ambi.cz"
+  },
+  {
+    "name": "Tomáš Lazar",
+    "position": "personální manažer",
+    "phone": "732 867 717",
+    "email": "tomas.lazar@ambi.cz"
+  },
+  {
+    "name": "Martin Matys",
+    "position": "šéfkuchař",
+    "phone": "739 633 770",
+    "email": "martin.matys@ambi.cz"
+  },
+  {
+    "name": "Gabriela Bogušovská",
+    "position": "účetní",
+    "phone": "603 261 554",
+    "email": "gabriela.bogusovska@ambi.cz"
+  },
+  {
+    "name": "Ivana Kubák",
+    "position": "account manažer",
+    "phone": "704 333 041",
+    "email": "ivana.martinkova@ambi.cz"
+  },
+  {
+    "name": "Milan Tuhovčák",
+    "position": "generální manažer",
+    "phone": "737 757 679",
+    "email": "milan.tuhovcak@ambi.cz"
+  },
+  {
+    "name": "Tomáš Mykytyn",
+    "position": "šéfkuchař",
+    "phone": "732 431 471",
+    "email": "tomas.mykytyn@ambi.cz"
+  },
+  {
+    "name": "Petra Židlická",
+    "position": "účetní",
+    "phone": "602 252 653",
+    "email": "petra.zidlicka@ambi.cz"
+  },
+  {
+    "name": "Ivana Kubák",
+    "position": "account manažer",
+    "phone": "704 333 041",
+    "email": "ivana.martinkova@ambi.cz"
+  },
+  {
+    "name": "Marek Landsinger",
+    "position": "generální manažer",
+    "phone": "777 231 895",
+    "email": "marek.landsinger@ambi.cz"
+  },
+  {
+    "name": "Jiří Polák",
+    "position": "jednatel",
+    "phone": "608 834 831",
+    "email": "jiri.polak@ambi.cz"
+  },
+  {
+    "name": "Martin Savkulič",
+    "position": "personální manažer",
+    "phone": "722 565 432",
+    "email": "martin.savkulic@ambi.cz"
+  },
+  {
+    "name": "Dušan Huber",
+    "position": "manažer",
+    "phone": "720 513 788",
+    "email": ""
+  },
+  {
+    "name": "Tomáš Neradil",
+    "position": "šéfkuchař",
+    "phone": "773 115 123",
+    "email": "tomas.neradil@ambi.cz"
+  },
+  {
+    "name": "Jana Hušáková",
+    "position": "účetní",
+    "phone": "723 015 074",
+    "email": "pizzanuova@ambi.cz"
+  },
+  {
+    "name": "Martin Kunc",
+    "position": "account manažer",
+    "phone": "739 802 174",
+    "email": "martin.kunc@ambi.cz"
+  },
+  {
+    "name": "Ozren Vlahov (Ogi)",
+    "position": "generální manažer",
+    "phone": "775 006 810",
+    "email": "ozren.vlahov@ambi.cz"
+  },
+  {
+    "name": "Evžen Tomišin",
+    "position": "personální manažer",
+    "phone": "777 212 726",
+    "email": "evzen.tomisin@ambi.cz"
+  },
+  {
+    "name": "Martin Čáslavka",
+    "position": "šéfkuchař",
+    "phone": "739 163 693",
+    "email": "martin.caslavka@ambi.cz"
+  },
+  {
+    "name": "Honza Nachlinger",
+    "position": "šéfcukrář",
+    "phone": "739 088 907",
+    "email": ""
+  },
+  {
+    "name": "Zuzana Hadačová",
+    "position": "účetní",
+    "phone": "776 728 022",
+    "email": "zuzana.hadacova@ambi.cz"
+  },
+  {
+    "name": "Adéla Romanczinová",
+    "position": "account manažer",
+    "phone": "724 001 501",
+    "email": "adela.romanczinova@amanual.cz"
+  },
+  {
+    "name": "David Marek",
+    "position": "generální manažer",
+    "phone": "731 103 971",
+    "email": "david.marek@ambi.cz"
+  },
+  {
+    "name": "Jaroslav Kozdělka",
+    "position": "šéfpekař",
+    "phone": "775 963 284",
+    "email": "jaroslav.kozdelka@ambi.cz"
+  },
+  {
+    "name": "Rudolf Herman",
+    "position": "generální manažer",
+    "phone": "777 900 680",
+    "email": "rudolf.herman@ambi.cz"
+  },
+  {
+    "name": "Tomáš Brázda",
+    "position": "sommelier",
+    "phone": "728 297 839",
+    "email": "tomas.brazda@ambi.cz"
+  },
+  {
+    "name": "Martin Štangl",
+    "position": "executive chef a kontakt za cukrárnu",
+    "phone": "777 226 081",
+    "email": "martin.stangl@ambi.cz"
+  },
+  {
+    "name": "Ondrej Dufek",
+    "position": "šéfkuchař",
+    "phone": "774 993 960",
+    "email": ""
+  },
+  {
+    "name": "Petra Kremlíková",
+    "position": "obchod Esky",
+    "phone": "724 313 976",
+    "email": "petra.kremlikova@ambi.cz"
+  },
+  {
+    "name": "Lucie Šarochová",
+    "position": "účetní",
+    "phone": "605 457 921",
+    "email": "finance.achleba@ambi.cz"
+  },
+  {
+    "name": "Jindřich Šálek",
+    "position": "account manažer",
+    "phone": "739 429 348",
+    "email": ""
+  },
+  {
+    "name": "Kateřina Hollmannová",
+    "position": "generální manažer",
+    "phone": "602 288 924",
+    "email": "katerina.hollmannova@ambi.cz"
+  },
+  {
+    "name": "Jaroslav Kozdělka",
+    "position": "šéfpekař",
+    "phone": "775 963 284",
+    "email": "jaroslav.kozdelka@ambi.cz"
+  },
+  {
+    "name": "Lucie Šarochová",
+    "position": "účetní",
+    "phone": "605 457 921",
+    "email": "finance.achleba@ambi.cz"
+  },
+  {
+    "name": "Rudolf Herman",
+    "position": "Generální manažer",
+    "phone": "777 900 680",
+    "email": "rudolf.herman@ambi.cz"
+  },
+  {
+    "name": "Martin Štangl",
+    "position": "Šéfkuchař",
+    "phone": "777 226 081",
+    "email": "martin.stangl@ambi.cz"
+  },
+  {
+    "name": "Adéla Romanczinová",
+    "position": "account manažer",
+    "phone": "724 001 501",
+    "email": "adela.romanczinova@amanual.cz"
+  },
+  {
+    "name": "Robert Pulec",
+    "position": "generální manažer, jednatel",
+    "phone": "775 626 150",
+    "email": "robert.pulec@ambi.cz"
+  },
+  {
+    "name": "Michal Hořínek",
+    "position": "manažer",
+    "phone": "776 433 890",
+    "email": "michal.horinek@ambi.cz"
+  },
+  {
+    "name": "Jakub Hlávka",
+    "position": "šéfkuchař",
+    "phone": "731 215 655",
+    "email": "jakub.hlavka@ambi.cz"
+  },
+  {
+    "name": "Tomáš Radko",
+    "position": "sous-chef personální",
+    "phone": "605 476 424",
+    "email": "tomas.radko@ambi.cz"
+  },
+  {
+    "name": "Kateřina Veselá",
+    "position": "účetní, jednatel",
+    "phone": "602 255 323",
+    "email": "finance.kantyna@ambi.cz"
+  },
+  {
+    "name": "Viola Vondráková",
+    "position": "account",
+    "phone": "725 172 473",
+    "email": "viola.vondrakova@ambi.cz"
+  },
+  {
+    "name": "Václav Hromas",
+    "position": "jednatel + faktury",
+    "phone": "603 810 814",
+    "email": "vaclav.hromas@ambi.cz"
+  },
+  {
+    "name": "Vojtěch Malý",
+    "position": "generální manažer",
+    "phone": "604 285 251",
+    "email": "vojtech.maly@ambi.cz"
+  },
+  {
+    "name": "Igor Bejtič",
+    "position": "manažer",
+    "phone": "722 287 709",
+    "email": "igor.bejtic@ambi.cz"
+  },
+  {
+    "name": "Jan Mach",
+    "position": "manažer",
+    "phone": "723 845 405",
+    "email": "jan.mach@ambi.cz"
+  },
+  {
+    "name": "Pavel Brichzin",
+    "position": "šéfkuchař",
+    "phone": "777 069 263",
+    "email": "pavel.brichzin@ambi.cz"
+  },
+  {
+    "name": "Nikola Worofková",
+    "position": "účetní a mzdová účetní",
+    "phone": "732 461 447",
+    "email": "nikola.worofkova@ambi.cz"
+  },
+  {
+    "name": "Viola Vondráková",
+    "position": "account",
+    "phone": "725 172 473",
+    "email": "viola.vondrakova@ambi.cz"
+  },
+  {
+    "name": "Tomáš Hánek",
+    "position": "jednatel",
+    "phone": "724 333 248",
+    "email": "tomas.hanek@ambi.cz"
+  },
+  {
+    "name": "Tereza Langthaler",
+    "position": "generální manažerka",
+    "phone": "775 515 451",
+    "email": "tereza.langthaler@ambi.cz"
+  },
+  {
+    "name": "Lukáš Pohl",
+    "position": "šéfcukrář, jednatel",
+    "phone": "775 997 760",
+    "email": "lukas.pohl@ambi.cz"
+  },
+  {
+    "name": "Jarmila Taha",
+    "position": "účetní",
+    "phone": "730 589 408",
+    "email": "finance.mysak@ambi.cz"
+  },
+  {
+    "name": "Adéla Romanczinová",
+    "position": "account manažer",
+    "phone": "724 001 501",
+    "email": "adela.romanczinova@amanual.cz"
+  },
+  {
+    "name": "Petr Benda",
+    "position": "generální manažer, šéfkuchař",
+    "phone": "721 361 030",
+    "email": "petr.benda@ambi.cz"
+  },
+  {
+    "name": "David Plášil",
+    "position": "sous-chef",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "Radek Geissler",
+    "position": "provozní manažer",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "Martina Nejezchlebová",
+    "position": "junior účetní na MD",
+    "phone": "606 626 905",
+    "email": "finance.bufetkarlin@ambi.cz"
+  },
+  {
+    "name": "Martin Kunc",
+    "position": "account manažer",
+    "phone": "739 802 174",
+    "email": "martin.kunc@ambi.cz"
+  },
+  {
+    "name": "Tomáš Hrušovský",
+    "position": "generální manažer",
+    "phone": "732 625 106",
+    "email": "tomas.hrusovsky@ambi.cz"
+  },
+  {
+    "name": "Jan Nývlt",
+    "position": "manažer",
+    "phone": "732 265 704",
+    "email": "jan.nyvlt@ambi.cz"
+  },
+  {
+    "name": "Marek Janouch",
+    "position": "šéfkuchař",
+    "phone": "777 847 490",
+    "email": "marek.janouch@ambi.cz"
+  },
+  {
+    "name": "Jan Nývlt",
+    "position": "finanční účetní",
+    "phone": "",
+    "email": "finance.kuchyn@ambi.cz"
+  },
+  {
+    "name": "Martin Kunc",
+    "position": "account manažer",
+    "phone": "739 802 174",
+    "email": "martin.kunc@ambi.cz"
+  },
+  {
+    "name": "Adam Novák",
+    "position": "generální manažer",
+    "phone": "732 652 103",
+    "email": "adam.novak@ambi.cz"
+  },
+  {
+    "name": "Honza Všetečka",
+    "position": "šéfkuchař",
+    "phone": "777 631 247",
+    "email": "jan.vsetecka@ambi.cz"
+  },
+  {
+    "name": "Slávek Grigorik",
+    "position": "šéfpekař",
+    "phone": "607 902 417",
+    "email": "slava.grigorik@ambi.cz"
+  },
+  {
+    "name": "Dominik Pávek",
+    "position": "manažer",
+    "phone": "607 602 780",
+    "email": "dominik.pavek@ambi.cz"
+  },
+  {
+    "name": "Zuzana Pakostová",
+    "position": "manažerka",
+    "phone": "731 026 258",
+    "email": "zuzana.pakostova@ambi.cz"
+  },
+  {
+    "name": "Kristýna Vondrková",
+    "position": "junior účetní",
+    "phone": "777 643 106",
+    "email": "finance.ukalendu@ambi.cz"
+  },
+  {
+    "name": "Klára Hátle",
+    "position": "account manažer",
+    "phone": "737 882 200",
+    "email": "klara.hatle@ambi.cz"
+  },
+  {
+    "name": "Karolína Beyerová",
+    "position": "generální manažer",
+    "phone": "721 440 275",
+    "email": "- faktury"
+  },
+  {
+    "name": "Pavlína Kulhánková",
+    "position": "junior účetní",
+    "phone": "603 297 061",
+    "email": "pavlina.kulhankova@ambi.cz"
+  },
+  {
+    "name": "Vojtěch Mrázek",
+    "position": "generální manažer",
+    "phone": "606 098 440",
+    "email": "vojtech.mrazek@ambi.cz"
+  },
+  {
+    "name": "Jiří Šoura",
+    "position": "šéfkuchař",
+    "phone": "605 145 856",
+    "email": "jiri.soura@ambi.cz"
+  },
+  {
+    "name": "Klára Hátle",
+    "position": "account manažer",
+    "phone": "737 882 200",
+    "email": "klara.hatle@ambi.cz"
+  },
+  {
+    "name": "Jitka Hoznourová",
+    "position": "junior účetní",
+    "phone": "732181778",
+    "email": "Jitka.hoznourova@ambi.cz"
+  },
+  {
+    "name": "Jiří Polák",
+    "position": "jednatel",
+    "phone": "608 834 831",
+    "email": "jiri.polak@ambi.cz"
+  },
+  {
+    "name": "Jana Křivánková",
+    "position": "generální manažer",
+    "phone": "731 186 910",
+    "email": "jana.krivankova@ambi.cz"
+  },
+  {
+    "name": "Dalibor Křivánek",
+    "position": "generální  manažer",
+    "phone": "",
+    "email": "dalibor.krivanek@ambi.cz"
+  },
+  {
+    "name": "Radek Pecko",
+    "position": "šéfkuchař",
+    "phone": "777 657 988",
+    "email": "radek.pecko@ambi.cz"
+  },
+  {
+    "name": "Jana Hušáková",
+    "position": "účetní",
+    "phone": "723 015 074",
+    "email": "pizzanuova@ambi.cz"
+  },
+  {
+    "name": "Klára Hátle",
+    "position": "account manažer",
+    "phone": "737 882 200",
+    "email": "klara.hatle@ambi.cz"
+  },
+  {
+    "name": "Milada Janáková",
+    "position": "jednatelka",
+    "phone": "607 013 706",
+    "email": "milada@whitecircus.cz"
+  },
+  {
+    "name": "Víťa Fečo",
+    "position": "jednatel",
+    "phone": "737 100 112",
+    "email": "vita.feco@whitecircus.cz"
+  },
+  {
+    "name": "Miroslav Bouchal",
+    "position": "provozní ředitel",
+    "phone": "724 611 056",
+    "email": "miroslav.bouchal@ambi.cz"
+  },
+  {
+    "name": "Adam Utíkal",
+    "position": "brand manažer",
+    "phone": "773 238 792",
+    "email": "adam.utikal@ambi.cz"
+  },
+  {
+    "name": "Václav Kouba",
+    "position": "výkonný šéfkuchař",
+    "phone": "732 444 862",
+    "email": "vaclav.kouba@ambi.cz"
+  },
+  {
+    "name": "Markéta Hoblová",
+    "position": "správce finančních informací",
+    "phone": "604 260 993",
+    "email": "marketa.hoblova@ambi.cz"
+  },
+  {
+    "name": "Lucie Janečková",
+    "position": "mistr výčepní",
+    "phone": "608 371 171",
+    "email": "lucie.janeckova@ambi.cz"
+  },
+  {
+    "name": "Tomáš Krčmář",
+    "position": "hlavní výčepní",
+    "phone": "734 207 410",
+    "email": "tomas.krcmar@ambi.cz"
+  },
+  {
+    "name": "Nikola Lechnýřová",
+    "position": "HR",
+    "phone": "774 552 787",
+    "email": "nikola.lechnyrova@ambi.cz"
+  },
+  {
+    "name": "Hana Orhan",
+    "position": "office manažerka",
+    "phone": "735 704 215",
+    "email": "hana.orhan@ambi.cz"
+  },
+  {
+    "name": "Lucie Janečková",
+    "position": "jednatelka",
+    "phone": "608 371 171",
+    "email": "lucie.janeckova@ambi.cz"
+  },
+  {
+    "name": "Markéta Hoblová",
+    "position": "účetní",
+    "phone": "604 260 993",
+    "email": "marketa.hoblova@ambi.cz"
+  },
+  {
+    "name": "Zdeňka Šubrtová",
+    "position": "hlavní výčepní",
+    "phone": "607 202 889",
+    "email": ""
+  },
+  {
+    "name": "Pavel Bübel",
+    "position": "létající výčepní",
+    "phone": "731 728 553",
+    "email": ""
+  },
+  {
+    "name": "Tereza Plášilová",
+    "position": "produkční",
+    "phone": "774 106 552",
+    "email": "tereza.plasilova@ambi.cz"
+  },
+  {
+    "name": "Daniel Proksch",
+    "position": "generální manažer",
+    "phone": "725 036 429",
+    "email": "daniel.proksch@ambi.cz"
+  },
+  {
+    "name": "Lukáš Solar",
+    "position": "manažer",
+    "phone": "724 774 717",
+    "email": "lukas.solar@ambi.cz"
+  },
+  {
+    "name": "Samuel Semjan",
+    "position": "manažer",
+    "phone": "603 512 684",
+    "email": "samuel.semjan@ambi.cz"
+  },
+  {
+    "name": "Dan Šrámek",
+    "position": "manažer",
+    "phone": "606 792 633",
+    "email": "daniel.sramek@ambi.cz"
+  },
+  {
+    "name": "Jan Martínek",
+    "position": "šéfkuchař",
+    "phone": "739 301 689",
+    "email": "jan.martinek@ambi.cz"
+  },
+  {
+    "name": "Elen Skalická",
+    "position": "rezervace, hodnocení…",
+    "phone": "605 973 809",
+    "email": "dlouha@ambi.cz"
+  },
+  {
+    "name": "Jitka Hoznourová",
+    "position": "účetní",
+    "phone": "732 181 778",
+    "email": "Jitka.hoznourova@ambi.cz"
+  },
+  {
+    "name": "Viola Vondráková",
+    "position": "account",
+    "phone": "725 172 473",
+    "email": "viola.vondrakova@ambi.cz"
+  },
+  {
+    "name": "František Šťástka",
+    "position": "generální manažer",
+    "phone": "608 920 520",
+    "email": "frantisek.stastka@ambi.cz"
+  },
+  {
+    "name": "Matěj Tabačík",
+    "position": "manažer",
+    "phone": "608 943 610",
+    "email": "kuzelka@ambi.cz"
+  },
+  {
+    "name": "Tereza Pechmanová",
+    "position": "HR",
+    "phone": "739 821 458",
+    "email": "kuzelka@ambi.cz"
+  },
+  {
+    "name": "Martina Dulínková",
+    "position": "manažerka",
+    "phone": "608 084 812",
+    "email": "kuzelka@ambi.cz"
+  },
+  {
+    "name": "Michal Mráz",
+    "position": "šéfkuchař",
+    "phone": "731 566 220",
+    "email": "michal.mraz@ambi.cz"
+  },
+  {
+    "name": "Viola Vondráková",
+    "position": "account",
+    "phone": "725 172 473",
+    "email": "viola.vondrakova@ambi.cz"
+  },
+  {
+    "name": "Miloš Kasal",
+    "position": "šéfkuchař",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "Zbyněk Skalický",
+    "position": "generální manažer",
+    "phone": "603 867 788",
+    "email": "zbynek.skalicky@ambi.cz"
+  },
+  {
+    "name": "Marek Zákon",
+    "position": "účetní",
+    "phone": "604 542 136",
+    "email": "marek.zakon@ambi.cz"
+  },
+  {
+    "name": "Viola Vondráková",
+    "position": "account",
+    "phone": "725 172 473",
+    "email": "viola.vondrakova@ambi.cz"
+  },
+  {
+    "name": "Jiří Skall",
+    "position": "generální manažer",
+    "phone": "604 254 612",
+    "email": "jiri.skall@ambi.cz"
+  },
+  {
+    "name": "Petra Skallová",
+    "position": "manažerka směny",
+    "phone": "604 382 575",
+    "email": "petra.skallova@ambi.cz"
+  },
+  {
+    "name": "Petr Pikora",
+    "position": "manažer směny",
+    "phone": "604 190 545",
+    "email": "petr.pikora@ambi.cz"
+  },
+  {
+    "name": "Martin Štengl",
+    "position": "šéfkuchař",
+    "phone": "773 942 922",
+    "email": "martin.stengl@ambi.cz"
+  },
+  {
+    "name": "Markéta Drábová",
+    "position": "účetní",
+    "phone": "606 308 309",
+    "email": "financenadstromovkou@ambi.cz"
+  },
+  {
+    "name": "Viola Vondráková",
+    "position": "account",
+    "phone": "725 172 473",
+    "email": "viola.vondrakova@ambi.cz"
+  },
+  {
+    "name": "Martin Bušo",
+    "position": "generální manažer",
+    "phone": "605 911 300",
+    "email": "martin.buso@ambi.cz"
+  },
+  {
+    "name": "Martin Čarek",
+    "position": "šéfkuchař",
+    "phone": "773 010 323",
+    "email": "martin.carek@ambi.cz"
+  },
+  {
+    "name": "Kateřina Ludvíková",
+    "position": "účetní",
+    "phone": "723 878 455",
+    "email": "katerina.ludvikova@ambi.cz"
+  },
+  {
+    "name": "Viola Vondráková",
+    "position": "account",
+    "phone": "725 172 473",
+    "email": "viola.vondrakova@ambi.cz"
+  },
+  {
+    "name": "Michaela Hauptmann",
+    "position": "generální manažerka v tréninku",
+    "phone": "608 973 344",
+    "email": "michaela.hauptmann@ambi.cz"
+  },
+  {
+    "name": "Kristýna Šauerová",
+    "position": "manažerka směny",
+    "phone": "736 687 942",
+    "email": "kristyna.sauerova@ambi.cz"
+  },
+  {
+    "name": "Jana Zýková",
+    "position": "manažerka směny",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "Tomáš Koza",
+    "position": "F&B + objednávky",
+    "phone": "737 055 675",
+    "email": "tomas.koza@ambi.cz"
+  },
+  {
+    "name": "Antonín Krs",
+    "position": "šéfkuchař",
+    "phone": "601 583 856",
+    "email": "antonin.krs@ambi.cz"
+  },
+  {
+    "name": "Miroslava Nováková",
+    "position": "účetní",
+    "phone": "775 617 577",
+    "email": "ucetni.plzen@ambi.cz"
+  },
+  {
+    "name": "Viola Vondráková",
+    "position": "account",
+    "phone": "602 643 433",
+    "email": "viola.vondrakova@ambi.cz"
+  },
+  {
+    "name": "Petr Opálka",
+    "position": "generální manažer",
+    "phone": "777 624 757",
+    "email": "petr.opalka@ambi.cz"
+  },
+  {
+    "name": "Petr Chylík",
+    "position": "šéfkuchař",
+    "phone": "770 138 816",
+    "email": "sefkuchar.ucaipla@ambi.cz"
+  },
+  {
+    "name": "Vít Liška",
+    "position": "manažer směny",
+    "phone": "604 843 242",
+    "email": "vit.liska@ambi.cz"
+  },
+  {
+    "name": "Lukáš Jeřábek",
+    "position": "manažer směny",
+    "phone": "723 398 814",
+    "email": "ucaipla@ambi.cz"
+  },
+  {
+    "name": "Martina Küblová",
+    "position": "manažerka",
+    "phone": "774 898 436",
+    "email": "ucaipla@ambi.cz"
+  },
+  {
+    "name": "Veronika Kalinová",
+    "position": "junior účetní",
+    "phone": "724 932 848",
+    "email": "fakturace.ucaipla@ambi.cz"
+  },
+  {
+    "name": "Viola Vondráková",
+    "position": "account",
+    "phone": "725 172 473",
+    "email": "viola.vondrakova@ambi.cz"
+  },
+  {
+    "name": "Luboš Dupák",
+    "position": "generální manažer",
+    "phone": "607 576 129",
+    "email": "lubos.dupak@ambi.cz"
+  },
+  {
+    "name": "Lukáš Heřman",
+    "position": "šéfkuchař",
+    "phone": "721 229 086",
+    "email": "lukas.herman@ambi.cz"
+  },
+  {
+    "name": "Jiří Křivánek",
+    "position": "manažer směny",
+    "phone": "775 074 383",
+    "email": ""
+  },
+  {
+    "name": "Monika Ülker",
+    "position": "junior účetní",
+    "phone": "776 319 976",
+    "email": "finance.korunni@ambi.cz"
+  },
+  {
+    "name": "Viola Vondráková",
+    "position": "account",
+    "phone": "725 172 473",
+    "email": "viola.vondrakova@ambi.cz"
+  },
+  {
+    "name": "Michal Svoboda",
+    "position": "generální manažer",
+    "phone": "731 483 305",
+    "email": "michal.svoboda@ambi.cz"
+  },
+  {
+    "name": "Jiří Králík",
+    "position": "šéfkuchař",
+    "phone": "604 797 736",
+    "email": "jiri.kralik@ambi.cz"
+  },
+  {
+    "name": "Branislav Hronec",
+    "position": "manažer směny",
+    "phone": "725 093 701",
+    "email": "branislav.hronec@ambi.cz"
+  },
+  {
+    "name": "Jana Flégr",
+    "position": "manažerka směny",
+    "phone": "731 790 908",
+    "email": "jana.flegr@ambi.cz"
+  },
+  {
+    "name": "Monika Ülker",
+    "position": "junior účetní",
+    "phone": "776 319 976",
+    "email": "finance.ujirata@ambi.cz"
+  },
+  {
+    "name": "Viola Vondráková",
+    "position": "account",
+    "phone": "725 172 473",
+    "email": "viola.vondrakova@ambi.cz"
+  },
+  {
+    "name": "Ivana Kubíčková",
+    "position": "generální manažer",
+    "phone": "604 208 302",
+    "email": "ivana.kubickova@ambi.cz"
+  },
+  {
+    "name": "Monika Kopsová",
+    "position": "manažerka",
+    "phone": "739 642 483",
+    "email": "monika.kopsova@ambi.cz"
+  },
+  {
+    "name": "Ivo Mráz",
+    "position": "manažer",
+    "phone": "733 159 318",
+    "email": "ivo.mraz@ambi.cz"
+  },
+  {
+    "name": "Lukáš Tomsa",
+    "position": "sládek",
+    "phone": "728 675 413",
+    "email": "lukas.tomsa@ambi.cz"
+  },
+  {
+    "name": "Markéta Slavíčková",
+    "position": "účetní",
+    "phone": "606 308 309",
+    "email": "marketa.slavickova@ambi.cz"
+  },
+  {
+    "name": "Alžběta Bryndová",
+    "position": "account",
+    "phone": "602 643 433",
+    "email": "alzbeta.bryndova@ambi.cz"
+  },
+  {
+    "name": "Tereza Pospíšilová",
+    "position": "generální manažer",
+    "phone": "732 439 224",
+    "email": "tereza.pospisilova@ambi.cz"
+  },
+  {
+    "name": "Kristýna Vondrková",
+    "position": "účetní",
+    "phone": "777 643 106",
+    "email": "kristyna.vondrkova@ambi.cz"
+  },
+  {
+    "name": "Alžběta Bryndová",
+    "position": "account",
+    "phone": "602 643 433",
+    "email": "alzbeta.bryndova@ambi.cz"
+  },
+  {
+    "name": "Lukáš Svoboda",
+    "position": "mistr výčepní",
+    "phone": "776 781 810",
+    "email": "lukas.svoboda@ambi.cz"
+  },
+  {
+    "name": "Míra Bouchal",
+    "position": "",
+    "phone": "724 611 056",
+    "email": "miroslav.bouchal@ambi.cz"
+  }
+]
